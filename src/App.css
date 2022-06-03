@@ -1,0 +1,11 @@
+/* fonts */
+
+@font-face {
+    font-family: "Yeongdo";
+    src: url("./fonts/Yeongdo.ttf");
+  }
+
+  @font-face {
+    font-family: "KyoboHandwriting2020pdy";
+    src: url("./fonts/KyoboHandwriting2020pdy.ttf");
+  }
