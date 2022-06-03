@@ -8,7 +8,7 @@ Redux와 Firebase를 공부하기 위해, 그리고 서로의 삼행시 실력�
 
 ### 2. 사용된 기술
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"> <img src="https://img.shields.io/badge/styled-component-DB7093?style=for-the-badge&logo=styled-component&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"> <img src="https://img.shields.io/badge/styled-component-DB7093?style=for-the-badge&logo=styled-component&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
 
 ### 3. 상세 <br>
 #### Home
@@ -18,6 +18,11 @@ Redux와 Firebase를 공부하기 위해, 그리고 서로의 삼행시 실력�
 - 카드를 클릭하면 상세페이지로 이동합니다.
 - 우측 하단 +버튼을 클릭하면 데이터를 입력할 수 있는 페이지로 이동합니다.
 
-#### input
+#### input <br>
+
+<img src ="https://user-images.githubusercontent.com/97326130/171769574-d22ca7f6-4732-4300-b7a4-e69652f3fb69.png" width="500">
+
+- '홈으로' 버튼을 클릭하면 홈페이지로 이동합니다.
+- 작성 후 '추가하기' 버튼을 클릭하면 Firebase DB에 데이터가 추가되면서 홈페이지로 이동합니다.
 
 
