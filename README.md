@@ -1,7 +1,6 @@
 # 삼행시 사전📖
 
 항해99 React 숙련주차 과제 : 삼행시 사전 <br>
-http://hanghaeweekdiary.s3-website.ap-northeast-2.amazonaws.com/
 
 ### 1. 목적💁‍♀️
 Redux와 Firebase를 공부하기 위해, 그리고 서로의 삼행시 실력을 뽐내보기 위해 만들었습니다.
